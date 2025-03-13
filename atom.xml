@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>沐硕</title>
   
+  <subtitle>Mushuo</subtitle>
+  <link href="http://mushuo.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://mushuo.xyz/"/>
   <updated>2025-03-12T11:16:06.734Z</updated>
-  <id>http://example.com/</id>
+  <id>http://mushuo.xyz/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>沐硕</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/03/12/hello-world/"/>
-    <id>http://example.com/2025/03/12/hello-world/</id>
+    <link href="http://mushuo.xyz/2025/03/12/hello-world/"/>
+    <id>http://mushuo.xyz/2025/03/12/hello-world/</id>
     <published>2025-03-12T11:16:06.734Z</published>
     <updated>2025-03-12T11:16:06.734Z</updated>
     
