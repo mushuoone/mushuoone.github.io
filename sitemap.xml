@@ -2,9 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mushuo.xyz/2025/03/14/%E4%B8%AA%E4%BA%BA/</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://mushuo.xyz/Gallery/index.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://mushuo.xyz/about/index.html</loc>
     
-    <lastmod>2025-03-13</lastmod>
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://mushuo.xyz/categories/index.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://mushuo.xyz/categories/PoliticalEconomy/index.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://mushuo.xyz/message/index.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,24 +75,6 @@
   
   <url>
     <loc>http://mushuo.xyz/categories/Guitar/index.html</loc>
-    
-    <lastmod>2025-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://mushuo.xyz/categories/index.html</loc>
-    
-    <lastmod>2025-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://mushuo.xyz/categories/PoliticalEconomy/index.html</loc>
     
     <lastmod>2025-03-13</lastmod>
     
@@ -101,24 +128,6 @@
   </url>
   
   <url>
-    <loc>http://mushuo.xyz/Gallery/index.html</loc>
-    
-    <lastmod>2025-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://mushuo.xyz/message/index.html</loc>
-    
-    <lastmod>2025-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://mushuo.xyz/tags/index.html</loc>
     
     <lastmod>2025-03-13</lastmod>
@@ -139,12 +148,19 @@
 
   <url>
     <loc>http://mushuo.xyz/</loc>
-    <lastmod>2025-03-13</lastmod>
+    <lastmod>2025-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>http://mushuo.xyz/categories/%E6%88%90%E9%95%BF/</loc>
+    <lastmod>2025-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
