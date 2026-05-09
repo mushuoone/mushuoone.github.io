@@ -1,0 +1,91 @@
+title: 沐硕
+subtitle: Mushuo
+description: 沐浴春风，硕果累累
+keywords: null
+author: 沐硕
+language: zh-CN
+url: http://mushuo.site
+root: /
+permalink: ':year/:month/:day/:title/'
+permalink_defaults: null
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: ':lang'
+skip_render: null
+new_post_name: ':title.md'
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+syntax_highlighter: highlight.js
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: '-date'
+default_category: 未分类
+category_map: null
+tag_map: null
+meta_generator: true
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: mtime
+per_page: 10
+pagination_dir: page
+ignore: null
+taxonomies:
+  category: true
+  tag: true
+gallery:
+  enable: true
+  dir: Gallery
+aplayer:
+  meting: true
+  asset_inject: false
+theme: butterfly
+deploy:
+  type: git
+  repo: https://github.com/mushuoone/mushuoone.github.io.git
+  branch: main
+  message: 'Site updated: {{ now("YYYY-MM-DD HH:mm:ss") }}'
+hexo_pro:
+  username: mushuo
+  password: yy2001728
+  avatar: /picture/avatar.png
+swiper:
+  enable: true
+  priority: 1
+  enable_page: /
+  timemode: date
+  layout:
+    type: id
+    name: recent-posts
+    index: 0
+  default_descr: 再怎么看我也不知道怎么描述它的啦！
+  swiper_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css
+  swiper_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.js
+  custom_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiperstyle.css
+  custom_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper_init.js
